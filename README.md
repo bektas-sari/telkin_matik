@@ -65,8 +65,9 @@ LinkedIn: [www.linkedin.com/in/bektas-sari](http://www.linkedin.com/in/bektas-sa
 Researchgate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3) <br>
 Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari) <br>
 
+* Her türlü görüş ve önerilerini için benimle iletişime geçebilirsiniz.
 ---
 
 ## 📝 Lisans
 
-Bu proje MIT lisansı ile lisanslanmıştır.
+Bu proje MIT lisansı ile lisanslanmıştır. 
