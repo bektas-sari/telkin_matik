@@ -1,4 +1,4 @@
-# 🧘 Telkin Matik
+# 🧘 Telkin Matik (Flutter APP)
 
 **Telkin Matik**, kişisel gelişim ve olumlu telkinler için tasarlanmış sade ve etkili bir Flutter uygulamasıdır. Kullanıcılar, belirledikleri bir telkin cümlesini tekrarlayarak zihinsel olarak güçlenirler. Her tıklamada sayaç artar ve telkin cümlesi görsel olarak daha belirgin hale gelir.
 
