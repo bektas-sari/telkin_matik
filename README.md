@@ -1,6 +1,7 @@
 # 🧘 Telkin Matik (Flutter APP)
 
-**Telkin Matik**, kişisel gelişim ve olumlu telkinler için tasarlanmış sade ve etkili bir Flutter uygulamasıdır. Kullanıcılar, belirledikleri bir telkin cümlesini tekrarlayarak zihinsel olarak güçlenirler. Her tıklamada sayaç artar ve telkin cümlesi görsel olarak daha belirgin hale gelir.
+**Telkin Matik**, kişisel gelişim ve olumlu telkinler için tasarlanmış sade ve etkili bir Flutter uygulamasıdır. 
+Kullanıcılar, belirledikleri bir telkin cümlesini tekrarlayarak zihinsel olarak güçlenirler. Her tıklamada sayaç artar ve telkin cümlesi görsel olarak daha belirgin hale gelir.
 
 ---
 
@@ -18,7 +19,7 @@
 ## 🚀 Kurulum
 
 ```bash
-git clone https://github.com/kullanici-adin/telkin_matik.git
+git clone https://github.com/bektas-sari/telkin_matik.git
 cd telkin_matik
 flutter pub get
 flutter run
