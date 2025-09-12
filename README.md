@@ -58,12 +58,15 @@ lib/
 
 ## 👤 Developer
 
-**Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  <br>
-GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari) <br>
-LinkedIn: [www.linkedin.com/in/bektas-sari](http://www.linkedin.com/in/bektas-sari) <br>
-Researchgate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3) <br>
-Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari) <br>
+**Bektaş Sarı**
+PhD in Advertising, AI + Creativity researcher
+Flutter Developer & Software Educator
+
+- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
+- **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
+- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
+- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
+- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
 * Her türlü görüş ve önerilerini için benimle iletişime geçebilirsiniz.
 ---
