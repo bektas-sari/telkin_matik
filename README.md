@@ -56,7 +56,7 @@ lib/
 
 ---
 
-## 👤 Developer
+## 👤 Web/Mobile Developer
 
 **Bektaş Sarı**<br>
 PhD in Advertising, AI + Creativity researcher<br>
